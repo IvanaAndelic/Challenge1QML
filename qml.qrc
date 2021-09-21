@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>hobbit.jpg</file>
+        <file>sonofgod.jpg</file>
+        <file>tarzan.jpg</file>
+        <file>ridealong.jpg</file>
+        <file>wolf.jpg</file>
+    </qresource>
+</RCC>
