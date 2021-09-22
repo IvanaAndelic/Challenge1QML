@@ -1,2 +1,2 @@
 # Challenge1QML
-Subtask 1, introduction to QML.
+Movie Browser, subtask 1: introduction to QML.
